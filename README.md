@@ -1,5 +1,7 @@
 # Learning Open Policy Agent
 
+This is the script of watching: [Open Policy Agent Deep Dive](https://www.youtube.com/watch?v=T7ojX4YnmTA)
+
 ## Fundamental concepts
 
 - JSON in JSON out
